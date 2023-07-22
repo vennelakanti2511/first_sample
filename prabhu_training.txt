@@ -1,3 +1,4 @@
 we are training on git
-DevOps also
+we will be training on devops tomorrow.
+
 
